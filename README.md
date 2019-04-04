@@ -1,1 +1,1 @@
-Testing pupitiar as a service
+Testing Puppeteer as a service
