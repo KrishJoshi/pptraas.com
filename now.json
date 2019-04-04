@@ -1,5 +1,7 @@
 {
   "name":"puppets",
   "version": 2,
-  "builds": [{ "src": "./server.js", "use": "@now/node" }]
+   "builds": [
+        { "src": "**/*.js", "use": "@now/node" }
+    ]
 }
