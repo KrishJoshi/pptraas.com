@@ -328,3 +328,5 @@ const signals = [
 signals.forEach(sig => {
   process.once(sig, () => processTerminator(sig));
 });
+
+export default app;
